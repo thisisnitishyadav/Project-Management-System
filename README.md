@@ -1,4 +1,4 @@
-# Fullstack Task Manager (MERN)
+# Project Management System Fullstack (MERN)
 
 
 
@@ -81,14 +81,14 @@ With the rise of remote work and dispersed teams, there is a growing need for to
     - MongoDB for efficient and scalable data storage.
 
 
-The Cloud-Based Task Manager is an innovative solution that brings efficiency and organization to task management within teams. By harnessing the power of the MERN stack and modern frontend technologies, the platform provides a seamless experience for both administrators and users, fostering collaboration and productivity.
+The Project Managemaent System is an innovative solution that brings efficiency and organization to task management within teams. By harnessing the power of the MERN stack and modern frontend technologies, the platform provides a seamless experience for both administrators and users, fostering collaboration and productivity.
 
 &nbsp;
 
 ## SETUP INSTRUCTIONS
 
 
-# Server Setup
+# Backend Setup
 
 ## Environment variables
 First, create the environment variables file `.env` in the server folder. The `.env` file contains the following environment variables:
@@ -150,9 +150,4 @@ First, create the environment variables file `.env` in the client folder. The `.
 
 
 
-&nbsp;
 
-## For Support, Contact:
-
-- Email: codewavewithasante@gmail.com
-- Telegram Chat: [https://t.me/Codewave_with_asante](https://t.me/Codewave_with_asante)
